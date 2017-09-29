@@ -1,0 +1,8 @@
+C语言版本
+#include<stdio.h>
+void main()
+{
+     printf("hello github");
+     return 0;
+}
+
